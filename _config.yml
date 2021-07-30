@@ -64,7 +64,7 @@ plugins:
 author:
   name   : "Yoori Choi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "here."
   links:
     - label: "website"
       icon: "fas fa-fw fa-envelope-square"
