@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "ko-KR"
-title: "끈덕지게"
+title: "끈덕지게!"
 name: "Yoori Choi"
 description: "TIL(Today I Learned)용 "
 url: "https://vndn6832.github.io"
