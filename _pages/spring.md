@@ -1,6 +1,6 @@
 ---
 title: "Spring 공부하기"
-permalink: /Spring/
+permalink: /spring/
 layout: single
 author_profile: true
 
