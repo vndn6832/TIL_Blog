@@ -9,3 +9,5 @@ main:
     url: /about/
   - title: "Spring"
     url: /spring/
+  - title: "Web"
+    url: /web/
