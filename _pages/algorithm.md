@@ -14,6 +14,7 @@ author_profile: true
 ## 기본지식
 
 1. [구조체를 이용한 벡터와 우선순위 큐]({{site.url}}/algorithm/algorithm-3/)
+2. [해시 맵]({{site.url}}/algorithm/algorithm-5/)
 
 ## 주의할점
 []({{site.url}}/algorithm/algorithm-4/)
