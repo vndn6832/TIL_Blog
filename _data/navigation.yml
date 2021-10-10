@@ -7,6 +7,8 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+  - title: "Java"
+    url: /Java/
   - title: "Spring"
     url: /spring/
   - title: "Web"
