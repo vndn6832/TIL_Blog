@@ -10,4 +10,5 @@ author_profile: true
 
 1. [Java 공부하기 - 컴파일 과정]({{site.url}}/java/java-1/)
 2. [Java 공부하기 - JVM]({{site.url}}/java/java-2/)
+3. [Java 공부하기 - JVM 2]({{site.url}}/java/java-3/)
 
