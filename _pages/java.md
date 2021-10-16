@@ -13,4 +13,5 @@ author_profile: true
 3. [Java 공부하기 - JVM 2]({{site.url}}/java/java-3/)
 4. [Java 공부하기 - GC]({{site.url}}/java/java-4/)
 5. [Java 공부하기 - JVM 튜닝]({{site.url}}/java/java-5/)
+6. [Java 공부하기 - Java의 Collection]({{site.url}}/java/java-6/)
 
