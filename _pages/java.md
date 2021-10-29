@@ -18,4 +18,5 @@ author_profile: true
 8. [Java 공부하기 - 다형성, 오버라이딩과 오버로딩]({{site.url}}/java/java-8/)
 9. [Java 공부하기 - 추상클래스 vs 인터페이스]({{site.url}}/java/java-9/)
 10. [Java 공부하기 - Generic]({{site.url}}/java/java-10/)
+11. [Java 공부하기 - JUnit]({{site.url}}/java/java-11/)
 
