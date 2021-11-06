@@ -2,5 +2,3 @@
 URL: https://vndn6832.github.io/
 
 Java, Spring, Web, Algorithm, OS
-
-
