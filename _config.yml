@@ -59,7 +59,7 @@ plugins:
 # Site Author
 author:
   name   : "Yoori Choi"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile.png"
   bio    : "TIL(Today I Learned)용 "
   links:
     - label: "website"
